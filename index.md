@@ -85,9 +85,9 @@
   </div>
   <!-- social icon -->
   <ul class="list-unstyled ml-5 mt-3 position-relative zindex-1">
-    <li class="mb-3"><a class="text-white" href="https://www.facebook.com/people/Jay-Desai/100011734818656"><i class="ti-facebook"></i></a></li>
-    <li class="mb-3"><a class="text-white" href="https://www.instagram.com/jay_desai7781/"><i class="ti-instagram"></i></a></li>
-    <li class="mb-3"><a class="text-white" href="https://www.linkedin.com/in/jay-desai-228661176"><i class="ti-linkedin"></i></a></li>
+    <li class="mb-3"><a class="text-white" href="https://facebook.com/abhinav.kohli.50"><i class="ti-facebook"></i></a></li>
+    <li class="mb-3"><a class="text-white" href="https://www.instagram.com/_a_k_msdian/"><i class="ti-instagram"></i></a></li>
+    <li class="mb-3"><a class="text-white" href="https://www.linkedin.com/in/abhinav-kohli-92b649172"><i class="ti-linkedin"></i></a></li>
   </ul>
   <!-- /social icon -->
 </section>
@@ -277,7 +277,7 @@
       <div class="col-md-4 mb-4 mb-md-0">
         <div class="card active-bg-primary hover-shadow shadow">
           <div class="card-body text-center px-4 py-5">
-            <img class="d-unset" src="images/clients-logo/angular.png">
+            
             <h4 class="mb-4">Machine Learning</h4>
             <p>STANFORD UNIVERSITY(COURSERA)</p>
           </div>
@@ -304,7 +304,7 @@
       <div class="col-md-4 mb-4 mb-md-0">
         <div class="card hover-shadow shadow">
           <div class="card-body text-center px-4 py-5">
-            <img class="d-unset" src="images/icons/c_c.jpg">
+            
             <h4 class="mb-4">What is Data Science</h4>
             <p>IBM</p>
           </div>
@@ -313,7 +313,7 @@
       <div class="col-md-4 mb-4 mb-md-0">
         <div class="card active-bg-primary hover-shadow shadow">
           <div class="card-body text-center px-4 py-5">
-            <img class="d-unset" src="images/clients-logo/c.png">
+        
             <h4 class="mb-4">Full Stack Development Bootcamp(Django)</h4>
             <p>UDEMY</p>
           </div>
