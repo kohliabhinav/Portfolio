@@ -186,7 +186,7 @@
       <div class="col-lg-3 col-md-4 text-center">
         <img src="images/experience/icon-3.png" alt="icon">
         <p class="mb-0">Oct 2019 - Nov 2019</p>
-        <h4>Campus Ambedessor</h4>
+        <h4>Campus Ambassador</h4>
         <h6 class="text-light">Popshot</h6>
       </div>
     </div>
